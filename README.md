@@ -106,3 +106,5 @@ GUI design
 Real music file (i.e. mp3) management implementation
 
 Different data structures...
+
+Permanent storage from read on file i.e. JSON 
