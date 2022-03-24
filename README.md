@@ -1,6 +1,6 @@
 # MooSic (Music App)
 ### By: George Wang
-Music application is a C++ database of playlist and song ADTs which allows user-based commands to initiate storage-management algorithms. 
+Music application is a library of playlist and song ADTs which allows user-based commands to initiate storage-management algorithms written in C++. 
 
 ## Installation
 
